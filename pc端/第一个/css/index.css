@@ -9,14 +9,27 @@ header{
     height: 1046px;
 }
 .title{
+    /* overflow: hidden; */
+    /* position: relative; */
     width: 100%;
     height: 41px;
 }
 .title-auto{
+    /* position: relative; */
     /* display: inline; */
     width: 480px;
     height: 22px;
-    margin: 28px auto;
+    margin: 0 auto;
+    /* overflow: hidden; */
+    
+}
+
+.title img{
+    margin-top: 28px;
+    margin-left: 200px;
+    /* margin-top: 100px; */
+    width: 160px;
+    height: 50px; 
     
 }
 .title-auto li{
@@ -327,7 +340,7 @@ nav{
 
 .diqibufen{
     width: 100%;
-    
+    height: 500px;
     background-color: #3b3b3b;
 }
 .diqibufen-left{
@@ -343,14 +356,104 @@ nav{
     margin-top: 28px;
     color: #ccc;
 }
+.diqibufen-left-bufen li a:hover{
+    border-bottom: 1px solid #ccc;
+}
 .diqibufen-left-bufen li:first-child{
     color: #777;
     font-size: 20px;
 }
 .diqibufen-left ul:nth-child(1){
-    margin-left: 255px;
+    margin-left: 126px;
 }
 .diqibufen-left ul:nth-child(2),
 .diqibufen-left ul:nth-child(3){
  margin-left: 100px;
+}
+.diqibufen-auto-bufen{
+   /* display: inline-block; */
+   width: 200px;
+   /* float: left; */
+   float: left;
+   margin-left: 650px;
+   margin-top: -340px;
+}
+.diqibufen-auto-bufen img{
+    
+    /* display: block; */
+    width: 200px;
+    height: 300px;
+}
+
+.diqibufen-right-bufen{
+    position: relative;
+    float: right;
+    width: 420px;
+    height: 340px;
+    margin-top: -340px;
+    margin-right: 148px;
+}
+
+.diqibufen-right-bufen b{
+    color: #777;
+    font-size: 18px;
+}
+.diqibufen-right-bufen-nav{
+    background-color: #363434;
+    color: #ccc;
+    width: 100%;
+    height: 250px;
+}
+.diqibufen-right-bufen-nav li{
+     font-size: 12px;
+     margin-top: 22px;
+    
+}
+.diqibufen-right-bufen-nav li:nth-child(1){
+    /* margin-top: 40px; */
+    padding-top: 20px;
+}
+.diqibufen-right-bufen-nav li span{
+    float: right;
+    padding-right: 10px;
+}
+.diqibufen-right-bufen-nav li a{
+    color: #ccc;
+    margin-left: 10px;
+}
+.diqibufen-right-bufen-nav li a:hover{
+    border-bottom: 1px solid #ccc;
+}
+.diqibufen-right-bufen p a{
+   font-size: 14px;
+   color: #666;
+   background-color: #444;
+   border-radius: 15px;
+   padding: 4px 6px;
+   float: right;
+   /* margin-top: 10px; */
+   /* top: 10px; */
+   /* padding-bottom: 40px; */
+}
+.diqibufen-right-bufen p a:hover{
+    background-color: #666;
+    color: #ccc;
+    /* margin-bottom: 40px; */
+}
+.diqibufen-right-bufen p{
+    margin-top: -30px;
+}
+
+
+.dibabufen-dibu{
+    /* position: relative; */
+    background-color: #2c2c2c;
+    width: 100%;
+}
+.dibabufen-dibu img{
+    /* position: absolute; */
+    /* margin: 0 auto; */
+    margin-left: 122px;
+    width: 1232px;
+    height: 100px;
 }
