@@ -162,7 +162,7 @@ main{
 
 .xinren{
   width: 100%;
-
+  position: relative;
 }
 .xinren-yi,
 .xinren-san{
@@ -199,4 +199,68 @@ main{
 .xinren-si img{
   width: 100%;
   height: calc(884rem / 60);
+}
+
+
+
+
+.phone{
+  width: 100%;
+  background-color: #fff;
+  margin-top: calc(460rem / 60);
+}
+.phone-bufen{
+  float: left;
+  width: calc(687rem / 60);
+  height: calc(989rem / 60);
+  margin-left: calc(50rem / 60);
+}
+.phone-bufen img{
+  width: calc(687rem / 60);
+  height: calc(560rem / 60);
+}
+.phone-bufen-bottom{
+  margin-top: calc(50rem / 60);
+  margin-right: calc(50rem / 60);
+  width: calc(687rem / 60);
+  height: calc(432rem / 60);
+  
+}
+.name,
+.brief,
+.price,
+.buybtn{
+  text-align: center;
+  margin-top: calc(27rem / 60);
+}
+.name{
+  font-size: calc(42rem / 60);
+  font-weight: 800;
+  color: #000;
+}
+.brief{
+  font-size: calc(35rem / 60);
+  color: #757575;
+  
+}
+.price{
+  font-size: calc(42rem / 60);
+  color: #ea625b;
+}
+.price-old{
+  font-size: calc(33rem / 60);
+  color: #757575;
+  text-decoration: line-through;
+}
+
+
+.buchong-bufen{
+  width: 100%;
+ height: calc(200rem / 60);
+  color: #757575;
+  background-color: #fff;
+}
+.buchong-bufen-auto{
+  text-align: center;
+   font-size: calc(52rem / 60);
 }
