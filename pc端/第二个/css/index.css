@@ -1,0 +1,269 @@
+.diyibufen{
+    width: 100%;
+    height: 69px;
+    border-bottom:1px solid #f0f0f0 ;
+    background-color: #fff;
+}
+.diyibufen-left{
+width: 100%;
+height: 100%;
+line-height: 69px;
+float: left;
+}
+.diyibufen-left img{
+    width: 134px;
+    height: 38px;
+    margin-top: 10px;
+}
+.diyibufen-left a{
+    font-size: 20px;
+    height: 69px;
+    width: 100px;
+    background-color:#fff;
+    color: #5a5d5a;
+   padding: 24px 19px;
+  
+}
+.diyibufen-left-dierge{
+ margin-left: 38px;  
+}
+.diyibufen-left a:hover{
+    background-color: #ffe443;
+}
+.diyibufen-right{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    /* display:inline; */
+
+}
+.diyibufen-right input{
+    margin-top: 14px;
+    float: left;
+    height: 20px;
+    width: 290px;
+    border: 0;
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+}
+.diyibufen-right-bufen{
+    padding: 0;
+    background-color: #fff;
+    font-size: 20px;
+
+}
+.diyibufen-right-bufen:hover{
+    background-color: #fff;
+}
+
+
+
+.dierbufen{
+  
+    width: 100%;
+    height: 669px;
+}
+.dierbufen-left{
+    float: left;
+    overflow: hidden;
+    width: 777px;
+    height: 669px;
+    background-image: url(../img/dd.png);
+}
+.dierbufen-right{
+    float: left;
+    width: 50%;
+    height: 669px;
+   
+}
+.dierbufen-right img{
+    width: 724px;
+    height: 480px;
+    margin: 89px 220px 80px 0;
+}
+.dierbufen-left-bufen{
+    width: 374px;
+    height: 264px;
+    margin: 176px 161px 228px 225px;
+    
+}
+.dierbufen-left-bufen h2{
+    font-size: 51px;
+    font-weight: normal;
+}
+
+.dierbufen-left-bufen h3{
+    font-weight: 200;
+    font-size: 24px;
+    color: #666;
+    margin-top: 22px;
+}
+.dierbufen-left-bufen-bufen{
+    margin-top: 47px;
+    width: 369px;
+    height: 122px;
+}
+.dierbufen-left-bufen-bufen img{
+    width: 177px;
+    height: 55px;
+    
+}
+.dierbufen-left-bufen-bufen img:nth-child(2){
+    margin-left: 8px;
+}
+
+
+.dierbufen-left-bufen-bufen img:nth-child(3){
+    margin-top: 10px;
+}
+
+
+.disanbufen{
+    width: 100%;
+    background-color: #fff;
+}
+
+.disanbufen-top{
+    width: 1470px;
+    font-size: 25px;
+    color: #333;
+    margin: 0 auto;
+}
+.n{
+    background-color: #fdfdfd;
+    width: 100%;
+    height: 28px;
+}
+.disanbufen-bottom{
+width: 1470px;
+height: 314px;
+margin: 0 auto;
+background-color: #f4f4f4;
+}
+
+.disanbufen-bottom-bufen{
+    height: 100%;
+    width: 243px;
+}
+.disanbufen-bottom-bufen img{
+    width: 119px;
+    height: 176px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.dijiubufen{
+    width: 100%;
+    height: 117px;
+    background-color: #282828;
+}
+.dijiubufen-quyu{
+    width: 100%;
+    height: 117px;
+    overflow: hidden;
+    
+}
+.dijiubufen-quyu-bufen,
+.dijiubufen-quyu-bufen-dier{
+    width: 235px;
+    height: 117px;
+    display: inline-block;
+}
+.dijiubufen-buchong{
+    width: 100%;
+    height: 50px;
+    background-color: #282828;
+}
+
+
+.dijiubufen-quyu-bufen h1,
+.dijiubufen-quyu-bufen-dier h1{
+color: #ffffff;
+font-size: 16px;
+padding-bottom: 40px;
+}
+.dijiubufen-quyu-bufen-dier{
+    margin-left: 245px;
+}
+.dijiubufen-quyu-bufen a{
+  display: inline-block;
+  color: #808080;
+  margin-right: 34px;
+}
+.dijiubufen-quyu-bufen a span{
+    font-size: 35px;
+}
+.dijiubufen-quyu-bufen a h3{
+    padding-top: 5px;
+}
+.dijiubufen-quyu-bufen-dier a{
+margin-top: 39px;
+color: #808080;
+font-size: 17px;
+line-height: 30px;
+margin-right: 10px;
+}
+.dijiubufen-quyu-bufen a:hover,
+.dijiubufen-quyu-bufen-dier a:hover,
+.dishibufen-quyu-bufen a:hover{
+  color: #f2d41d;
+} */
+
+
+/* 第十部分 */
+/* .dishibufen{
+    width: 100%;
+    height: 60px;
+    background-color: #1f1f1f;
+}
+.dishibufen-quyu{
+    width: 100%;
+    height: 60px;
+}
+.dishibufen-quyu-bufen{
+    text-align: center;
+    font-size: 14px;
+    color: #808080;
+    line-height: 21px;
+}
+.dishibufen-quyu-bufen a{
+    color: #808080;
+}
+.dishibufen-buchong{
+    height: 29px;
+    width: 100%;
+    background-color: #1f1f1f;
+}
+.dishibufen-buchong{
+    width: 100%;
+    height: 100px;
+    background-color: #1f1f1f;
+}
+.dishibufen-buchong-yi{
+    width: 100%;
+    height: 30px;
+    background-color: #1f1f1f;
+}
+ */

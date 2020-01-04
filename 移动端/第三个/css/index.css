@@ -223,6 +223,7 @@ main{
   /* float:left; */
   /* margin-top: calc(30rem / 60); */
   width: 100%;
+  /* position: relative; */
   height: calc(552rem / 60);
   background-color: #b12126;
 }
@@ -239,10 +240,12 @@ main{
   /* overflow: hidden; */
 }
 .text{
+  /* position: relative; */
   overflow: hidden;
   background-color: #fff;
   width: 100%;
   height: calc(218rem / 60);
+  /* list-style-type:circle; */
 }
 .name,
 .brief,
@@ -259,6 +262,10 @@ main{
   font-size: calc(30rem / 60);
   font-weight: 300;
   color: #3c3c3c;
+
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .price{
   font-size: calc(37rem / 60);
@@ -283,3 +290,6 @@ main{
   width: 100%;
   height: calc(340rem / 60);
 }
+
+
+
