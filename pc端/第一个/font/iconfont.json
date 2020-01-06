@@ -6,32 +6,116 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "883255",
-      "name": "字母_p",
-      "font_class": "zimup",
-      "unicode": "e62f",
-      "unicode_decimal": 58927
+      "icon_id": "830908",
+      "name": "A5创业网",
+      "font_class": "a5chuangyewang",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
     },
     {
-      "icon_id": "2110222",
-      "name": "字母_a",
-      "font_class": "zimua",
-      "unicode": "e503",
-      "unicode_decimal": 58627
+      "icon_id": "1010551",
+      "name": "云建站",
+      "font_class": "yunjianzhan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
     },
     {
-      "icon_id": "2884553",
-      "name": "下标",
-      "font_class": "xiabiao",
-      "unicode": "e64b",
-      "unicode_decimal": 58955
+      "icon_id": "1054087",
+      "name": "微信",
+      "font_class": "weixin-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
     },
     {
-      "icon_id": "2931824",
-      "name": "开始",
-      "font_class": "kaishi",
-      "unicode": "e634",
-      "unicode_decimal": 58932
+      "icon_id": "1097189",
+      "name": "微融云",
+      "font_class": "weirongyun",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1235352",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1646528",
+      "name": "语音",
+      "font_class": "yuyin",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "2486332",
+      "name": "街",
+      "font_class": "jie",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2495837",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "3298264",
+      "name": "云",
+      "font_class": "yun1",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3506258",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4082321",
+      "name": "淘",
+      "font_class": "tao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4827282",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5394510",
+      "name": "聚合数据横版彩logo",
+      "font_class": "juheshujuhengbancailogo",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "5512526",
+      "name": "定位",
+      "font_class": "icon-dingwei",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "8032249",
+      "name": "九酷音乐",
+      "font_class": "jiukuyinle",
+      "unicode": "e981",
+      "unicode_decimal": 59777
+    },
+    {
+      "icon_id": "12666016",
+      "name": "阿里云",
+      "font_class": "aliyun01-copy",
+      "unicode": "e510",
+      "unicode_decimal": 58640
     }
   ]
 }
