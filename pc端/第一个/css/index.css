@@ -165,6 +165,7 @@ nav{
     position: relative;
     width: 1668px;
     height: 200px;
+    margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 55px;
 }
@@ -178,6 +179,39 @@ nav{
     height: 198px;
     float: right;
 }
+.duozhong-left-bottom-bufen span:hover{
+    color: #fff;
+    background-color: rgb(80, 80, 218);
+}
+.duozhong-left-bottom-bufen{
+    float: left;
+    width: 74px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.duozhong-left-bottom-bufen span{
+    display: block;
+    font-size: 49px;
+    border-radius: 50px;
+    background-color: #666;
+    padding: 10px;
+    color: #fff;
+}
+.duozhong-left-bottom-bufen i{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.ww{
+    margin-left: 70px;
+}
+
+
+
+
+
 .duozhong-left-top{
     float: left;
     width: 300px;
@@ -187,6 +221,7 @@ nav{
     color: #5c5e5c;
     border-left: 8px solid #19a1ee;
     border-radius: 2px 2px;
+    padding-left: 12px;
 }
 .duozhong-right-top h3{
     font-size: 22px;
@@ -194,6 +229,7 @@ nav{
     /* padding-left: 10px; */
     border-left: 8px solid #19a1ee;
     border-radius: 2px 2px;
+    padding-left: 12px;
 }
 .duozhong-left-top span,
 .duozhong-right-top span{
@@ -271,11 +307,19 @@ nav{
     display: block;
     font-size: 18px;
     background-color: #19a1ee;
-    color: #fff;
+    /* color: #fff; */
     border-radius: 15px;
     top: 405px;
     right: 71px;
+}
+.disanbufen-right span a{
+    color: #fff;
+}
 
+
+.mains{
+    width: 100%;
+    background-image: url(../img/reply.jpg);
 }
 
 .buchong{
@@ -307,10 +351,17 @@ nav{
 .diwubufen{
     background-color: #f5f5f5;
 }
-.diwubufen img{
+.diwubufen-tiaozheng{
     width: 1300px;
     height: 325px;
-    margin-left: 110px;
+    /* text-align: center; */
+    margin: 0 auto;
+}
+.diwubufen img{
+    /* text-align: center; */
+    width: 1300px;
+    height: 325px;
+    /* margin-left: 110px; */
 }
 .buchongsan{
     background-color: #f5f5f5;
@@ -321,8 +372,7 @@ nav{
     width: 100%;
     height: 195px;
 }
-.diliubufen-top,
-.diliubufen-bottom-auto{
+.diliubufen-top{
    margin-top: 30px;
    width: 100%;
 }
@@ -332,12 +382,19 @@ nav{
 }
 .diliubufen-bottom-auto{
     /* margin: 0 auto; */
-    margin-left: 120px;
+    margin-top: 30px;
+    margin-left: 296px;
 }
 .diliubufen-bottom-auto img{
     width: 90px;
     height: 30px;
     margin-right: 65px;
+    opacity: .3;
+    filter: grayscale(100%);
+}
+.diliubufen-bottom-auto img:hover{
+    opacity: 1.3;
+    filter: grayscale(0);
 }
 
 
@@ -460,3 +517,8 @@ nav{
     width: 1232px;
     height: 100px;
 }
+
+
+
+
+
