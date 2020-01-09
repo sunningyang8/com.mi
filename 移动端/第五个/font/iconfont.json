@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "207803",
+      "name": "F码",
+      "font_class": "fma",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1027453",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "1325858",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "2879563",
+      "name": "店",
+      "font_class": "dian",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "3977710",
+      "name": "退换修",
+      "font_class": "tuihuanxiu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4275961",
+      "name": "待付款",
+      "font_class": "daifukuan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "4398370",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4626743",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "7345565",
+      "name": "兑换",
+      "font_class": "duihuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9346701",
+      "name": "会 员1-01",
+      "font_class": "huiyuan-",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9820212",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "11445872",
+      "name": "我的 优惠券图标",
+      "font_class": "youhuiquan",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}

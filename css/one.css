@@ -208,7 +208,7 @@ main{
 .phone{
   width: 100%;
   background-color: #fff;
-  margin-top: calc(600rem / 60);
+  margin-top: calc(250rem / 60);
 }
 .phone-h{
   width: 100%;

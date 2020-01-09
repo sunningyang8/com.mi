@@ -1,0 +1,186 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+header{
+  position:fixed;
+  cursor: pointer;
+  width: 100%;
+  height: calc(136rem / 60);
+  background-color: #f2f2f2;
+  top: 0;
+  
+}
+.diyihang{
+    width: 92%;
+    margin: 0 auto;
+    height: calc(136rem / 60);
+   
+    line-height: calc(136rem / 60);
+}
+.diyihang span{
+    float: left;
+    color: #989898;
+    font-size: calc(73rem / 60);
+}
+.diyihang-auto{
+   margin-left: 40%;
+   font-size: calc(62rem / 60);
+   width: calc(118rem / 60);
+   height: calc(62rem / 60);
+   color: #989898;
+}
+.diyihang i{
+    float: right;
+    color: #989898;
+    font-size: calc(62rem / 60);
+}
+
+nav {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 44px;
+    background-color: #fff;
+  }
+  
+  nav a {
+    flex: 1;
+    height: 100%;
+    text-align: center;
+    margin-left: 8%;
+  }
+  
+  nav img {
+    width: auto;
+    height: 100%;
+  }
+
+
+main {
+    margin-top: calc(137rem / 60);
+    display: flex;
+    /* position: fixed; */
+    width: 100%;
+    /* height: 100%; */
+    /* padding-top: calc(136rem / 60); */
+    background-color: #fff;
+  }
+  
+  aside {
+    background-color: #fefefe;
+    float: left;
+    width: calc(334rem / 60);
+    height: 100%;
+    /* overflow: hidden; */
+    border-right: 3px solid #efefef;
+}
+  aside ul {
+    width: 100%;
+    height: 100%;
+  }
+  
+  aside li {
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+    font-size: calc(52rem / 60);
+}
+  .active{
+    color: #fb7d34;
+}
+  
+  main section {
+    flex: 1;
+    background-color: #fff;
+  }
+
+
+
+
+section{
+  /* width: 50px;
+  height: 500px;
+  background-color: red;
+  padding-left: 100px;
+  padding-right: 100px; */
+  width: 74%;
+  float: left;
+  top: 0;
+  /* padding: 0;
+  margin: 0; */
+ 
+}
+
+.ipone{
+  width: 100%;
+  height: calc(330rem / 60);
+}
+.ipone img{
+  width: 88%;
+  height: calc(330rem / 60);
+  margin-left: 6%;
+}
+
+.ipone-yi{
+  width: calc(340rem / 60);
+  height: calc(250rem / 60);
+  margin: 0 auto;
+  line-height: calc(250rem / 60);
+}
+.ipone-yi i{
+  color: #666;
+}
+.ipone-yi span{
+  margin: 0 calc(28rem / 60);
+  color: #333;
+  font-size: calc(38rem / 60);
+}
+
+
+
+
+.ipone-main{
+  width: 100%;
+  height: calc(540rem / 60);
+}
+.ipone-auto{
+  margin: 0 auto;
+  width: 90%;
+  height: 100%;
+}
+.ipone-auto-bufen{
+  float: left;
+  width: 33%;
+  height: calc(246rem / 60);
+
+}
+.ipone-auto-bufen img{
+  width: calc(142rem / 60);
+  height: calc(163rem / 60);
+  /* text-align: center; */
+  margin-left: 20%;
+}
+.ipone-auto-bufen span{
+  font-size: calc(24rem / 60);
+  color: #757575;
+  overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+text-align: center;
+   
+  display: block;
+  margin-top: calc(25rem / 60);
+}
+.aa{
+  margin-top: calc(38rem / 60);
+}
+
+
+
+
