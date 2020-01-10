@@ -96,6 +96,7 @@ width: calc(1344rem / 60);
 }
 
 nav {
+  /* margin-bottom: calc(180rem / 60); */
   display: flex;
   position: fixed;
   left: 0;
@@ -120,9 +121,12 @@ nav img {
 
 
 main{
-  padding-top: calc(280rem / 60);
-  width: 100%;
-  background-color: #f5f5f5;
+    /* position: relative; */
+    
+    padding-top: calc(280rem / 60);
+    width: 100%;
+    margin-bottom: calc(180rem / 60);
+    background-color: #e6e7fb;
 }
 .lunbotu {
   width: 100%;
@@ -284,3 +288,15 @@ main{
 .buchong-bufen-bufen{
   margin: calc(65rem / 60);
 }
+
+
+
+
+
+
+
+/* .ccc{
+  background-color: #fff;
+  width: 100%;
+  height: calc(30rem / 60);
+} */

@@ -117,7 +117,11 @@ nav img {
   height: 100%;
 }
 
-
+.ccc{
+  background-color: #fff;
+  width: 100%;
+  height: calc(180rem / 60);
+}
 main{
     /* position: relative; */
     padding-top: calc(280rem / 60);
